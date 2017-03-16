@@ -29,18 +29,18 @@ namespace ExCrack
 
             outputInt[0] = Convert.ToByte(Convert.ToString("4"), 16);
             outputInt[1] = Convert.ToByte(Convert.ToString("B"), 16);
-            outputInt[2] = Convert.ToByte(Convert.ToString("2"), 16);
+            outputInt[2] = Convert.ToByte(Convert.ToString("1"), 16);
             outputInt[3] = inputInt[5] - 6;
             outputInt[4] = Convert.ToByte(Convert.ToString("3"), 16);
             outputInt[5] = Convert.ToByte(Convert.ToString("3"), 16);
-            outputInt[6] = inputInt[10] + 9;
-            outputInt[7] = inputInt[18] +9;
-            outputInt[8] = inputInt[17] +9;
-            outputInt[9] = inputInt[14] +9;
-            outputInt[10] = inputInt[15] +9;
-            outputInt[11] = inputInt[7] +9;
-            outputInt[12] = inputInt[8] +9;
-            outputInt[13] = inputInt[9] +9;
+            outputInt[6] = inputInt[10] + 5;
+            outputInt[7] = inputInt[18] +5;
+            outputInt[8] = inputInt[17] +5;
+            outputInt[9] = inputInt[14] +5;
+            outputInt[10] = inputInt[15] +5;
+            outputInt[11] = inputInt[7] +5;
+            outputInt[12] = inputInt[8] +5;
+            outputInt[13] = inputInt[9] +5;
             outputInt[14] = inputInt[6] - 3;
             outputInt[15] = inputInt[13] - 3;
             outputInt[16] = inputInt[16] - 3;
