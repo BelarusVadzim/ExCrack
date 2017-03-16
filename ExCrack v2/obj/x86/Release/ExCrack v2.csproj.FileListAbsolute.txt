@@ -1,0 +1,9 @@
+c:\users\625_vadzim\documents\visual studio 2010\Projects\ExCrack v2\ExCrack v2\obj\x86\Release\ExCrack v2.csproj.GenerateResource.Cache
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\ExCrack v2\ExCrack v2\obj\x86\Release\ExCrack v2.csprojResolveAssemblyReference.cache
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\ExCrack v2\ExCrack v2\bin\Release\ExCrack v3.exe.config
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\ExCrack v2\ExCrack v2\bin\Release\ExCrack v3.exe
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\ExCrack v2\ExCrack v2\bin\Release\ExCrack v3.pdb
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\ExCrack v2\ExCrack v2\obj\x86\Release\ExCrack.Form1.resources
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\ExCrack v2\ExCrack v2\obj\x86\Release\ExCrack.Properties.Resources.resources
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\ExCrack v2\ExCrack v2\obj\x86\Release\ExCrack v3.exe
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\ExCrack v2\ExCrack v2\obj\x86\Release\ExCrack v3.pdb
