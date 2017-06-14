@@ -27,8 +27,8 @@ namespace ExCrack
                 }
             }
 
-            outputInt[0] = Convert.ToByte(Convert.ToString("4"), 16);
-            outputInt[1] = Convert.ToByte(Convert.ToString("B"), 16);
+            outputInt[0] = Convert.ToByte(Convert.ToString("B"), 16);
+            outputInt[1] = Convert.ToByte(Convert.ToString("2"), 16);
             outputInt[2] = Convert.ToByte(Convert.ToString("1"), 16);
             outputInt[3] = inputInt[5] - 6;
             outputInt[4] = Convert.ToByte(Convert.ToString("3"), 16);
@@ -44,7 +44,7 @@ namespace ExCrack
             outputInt[14] = inputInt[6] - 3;
             outputInt[15] = inputInt[13] - 3;
             outputInt[16] = inputInt[16] - 3;
-            outputInt[17] = Convert.ToByte(Convert.ToString("5"), 16);
+            outputInt[17] = Convert.ToByte(Convert.ToString("D"), 16);
 
             for (int i = 0; i < outputText.Length; i++)
             {

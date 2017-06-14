@@ -7,3 +7,12 @@ c:\users\625_vadzim\documents\visual studio 2010\Projects\ExCrack v2\ExCrack v2\
 c:\users\625_vadzim\documents\visual studio 2010\Projects\ExCrack v2\ExCrack v2\obj\x86\Debug\ExCrack v2.pdb
 c:\users\625_vadzim\documents\visual studio 2010\Projects\ExCrack v2\ExCrack v2\bin\Debug\ExCrack v2.exe.config
 c:\users\625_vadzim\documents\visual studio 2010\Projects\ExCrack v2\ExCrack v2\obj\x86\Debug\ExCrack v2.csprojResolveAssemblyReference.cache
+C:\Users\vadzim\Source\Repos\ExCrack\ExCrack v2\bin\Debug\ExCrack v3.exe.config
+C:\Users\vadzim\Source\Repos\ExCrack\ExCrack v2\bin\Debug\ExCrack v3.exe
+C:\Users\vadzim\Source\Repos\ExCrack\ExCrack v2\bin\Debug\ExCrack v3.pdb
+C:\Users\vadzim\Source\Repos\ExCrack\ExCrack v2\obj\x86\Debug\ExCrack v2.csprojResolveAssemblyReference.cache
+C:\Users\vadzim\Source\Repos\ExCrack\ExCrack v2\obj\x86\Debug\ExCrack.Form1.resources
+C:\Users\vadzim\Source\Repos\ExCrack\ExCrack v2\obj\x86\Debug\ExCrack.Properties.Resources.resources
+C:\Users\vadzim\Source\Repos\ExCrack\ExCrack v2\obj\x86\Debug\ExCrack v2.csproj.GenerateResource.Cache
+C:\Users\vadzim\Source\Repos\ExCrack\ExCrack v2\obj\x86\Debug\ExCrack v3.exe
+C:\Users\vadzim\Source\Repos\ExCrack\ExCrack v2\obj\x86\Debug\ExCrack v3.pdb

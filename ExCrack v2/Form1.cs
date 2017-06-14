@@ -16,12 +16,12 @@ namespace ExCrack
         }
 
         Timer T = new Timer();
-        private void button1_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
            
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void Button2_Click(object sender, EventArgs e)
         {
             
         }
@@ -42,12 +42,12 @@ namespace ExCrack
                 T.Stop();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void Label1_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void Label2_Click(object sender, EventArgs e)
         {
             Crack C = new Crack();
             try

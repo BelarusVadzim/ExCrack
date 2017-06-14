@@ -66,7 +66,7 @@
             this.label1.Size = new System.Drawing.Size(77, 27);
             this.label1.TabIndex = 4;
             this.label1.Text = "Закрыть";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.label1.Click += new System.EventHandler(this.Label1_Click);
             // 
             // label2
             // 
@@ -76,10 +76,10 @@
             this.label2.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.Location = new System.Drawing.Point(12, 72);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(119, 23);
+            this.label2.Size = new System.Drawing.Size(118, 23);
             this.label2.TabIndex = 5;
             this.label2.Text = "Получить код";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            this.label2.Click += new System.EventHandler(this.Label2_Click);
             // 
             // Form1
             // 
@@ -96,7 +96,7 @@
             this.Location = new System.Drawing.Point(500, 500);
             this.Name = "Form1";
             this.Opacity = 0D;
-            this.Text = "ExCr.V3";
+            this.Text = "ExCr.V3 14.06.2017";
             this.TopMost = true;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
